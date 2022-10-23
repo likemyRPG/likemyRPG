@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm likemyRPG</h1>
-<h3 align="center">A Belgium College Student</h3>
+<h3 align="center">A Belgian College Student</h3>
 
 
 <img align="center" src="https://cdn.discordapp.com/attachments/946116303691874314/946116501763665950/giphy_2.gif" style="max-width: 100%;"> <br><br>
