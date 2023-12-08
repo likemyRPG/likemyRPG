@@ -1,7 +1,4 @@
-<h1 align="center">About me - likemyRPG</h1>
+Belgian student in Computer Science & Freelance developer
 
-## **About me**
-
-- Belgian student in Computer Science
-- Freelance developer
-- For opportunities, contact me **[here](https://likemyrpg.dev)**
+🌐 likemyrpg.dev </br>
+📧 likemyrpg@proton.me
