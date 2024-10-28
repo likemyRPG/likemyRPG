@@ -1,4 +1,3 @@
-Belgian student in Computer Science & Freelance developer
+Sup
 
 🌐 likemyrpg.dev </br>
-📧 likemyrpg@proton.me
